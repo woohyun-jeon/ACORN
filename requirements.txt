@@ -1,0 +1,6 @@
+torch>=2.4
+torchvision
+segmentation-models-pytorch==0.5.0
+timm
+numpy
+rasterio
